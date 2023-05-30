@@ -16,5 +16,12 @@ return [
     'failed' => 'These credentials do not match our records.',
     'password' => 'The provided password is incorrect.',
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+//    Login Blade
+    'email' => 'Enter Your Email',
+    'password' => 'Enter Your Password',
+    'remember' => 'Remember me',
+    'sign_in' => 'Sign In',
+    'sign_in_message' => 'Enter Email And Password',
+    'app_welcome' => 'Welcome To Control Panel',
 
 ];
